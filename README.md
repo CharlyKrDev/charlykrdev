@@ -12,6 +12,7 @@ My main personal project, **Betty**, is a modular financial-market analysis back
 I also built an e-commerce backend as my final Coderhouse Backend Development project, using Node.js, Express, MongoDB, authentication, role-based access, Swagger, logging, and automated API testing.
 
 ## Tech stack
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,jest,git,github,linux)](https://github.com/CharlyKrDev/)
 
 ### Backend
 JavaScript · Node.js · Express.js · REST APIs · PostgreSQL · MongoDB · JWT · RBAC · Zod
